@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yogeshgiri904@gmail.com**
 
-- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1L3rzHN1Z8XDsHvYa1R5ab9Vokz15c_QX/view?usp=sharing).
+- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,5 +43,4 @@
 </p>
 <br>
 <br>
-<h3 align="left">Github Stats:</h3>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yogeshgiri904&show_icons=true&hide_border=true" />
