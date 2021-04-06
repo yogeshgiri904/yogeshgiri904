@@ -1,18 +1,18 @@
 <h3 align="center">Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
-<h2 align="center">I'm Yogesh Giri</h2>
-<h4 align="center">A Passionate Full Stack Developer from India</h4>
+<h1 align="center">I'm Yogesh Giri</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 <p align="center"> 
 <a href="https://linkedin.com/in/yogesh-g-89aa83108">
-  <img align="center" alt="Yogesh Giri | LinkedIN" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
+  <img align="center" alt="Yogesh Giri | LinkedIN" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
 </a> || 
 <a align="center" href="https://fb.com/yogesh.goswami.948011">
-  <img align="center" alt="Yogesh Giri | Facebook" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
+  <img align="center" alt="Yogesh Giri | Facebook" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
 </a> || 
 <a href="https://instagram.com/radheypandit_">
-  <img align="center" alt="Yogesh Giri | Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
+  <img align="center" alt="Yogesh Giri | Instagram" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
 </a> || 
 <a href="https://twitter.com/radheypandit_">
-  <img align="center" alt="Yogesh Giri | Twitter" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
+  <img align="center" alt="Yogesh Giri | Twitter" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
 </a>
 </p>
 <br/>
@@ -22,7 +22,7 @@
 <p align="center"> <a href="https://github.com/yogeshgiri904/" target="blank"><img src="https://img.shields.io/website?label=yogeshgiri904.com&style=for-the-badge&url=https://github.com/yogeshgiri904" /></a> </p>
 
 
-- 🌸 I’m currently working on [Namaste - Realtime Chatting App](http://srohackers.epizy.com/)
+- 🔭 I’m currently working on [Namaste - Realtime Chatting App](http://srohackers.epizy.com/)
 
 - 🌱 I’m currently learning **Laravel 8**
 
