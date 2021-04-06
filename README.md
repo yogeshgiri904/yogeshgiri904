@@ -1,46 +1,53 @@
-<h1 align="center">Hi 👋, I'm Yogesh Giri</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+<h2 align="center">I'm Yogesh Giri</h2>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<p align="center"> 
+<a href="https://linkedin.com/in/yogesh-g-89aa83108">
+  <img align="center" alt="Yogesh Giri | LinkedIN" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
+</a> || 
+<a align="center" href="https://fb.com/yogesh.goswami.948011">
+  <img align="center" alt="Yogesh Giri | Facebook" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
+</a> || 
+<a href="https://instagram.com/radheypandit_">
+  <img align="center" alt="Yogesh Giri | Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
+</a> || 
+<a href="https://twitter.com/radheypandit_">
+  <img align="center" alt="Yogesh Giri | Twitter" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
+</a>
+</p>
+<br/>
 
-<p align="left"><a href="https://yogeshgiri904.github.io/sro_live" target="blank"><img src="https://img.shields.io/website?down_message=online&style=for-the-badge&up_color=orangered&up_message=Shri%20Ram%20Org.&url=https%3A%2F%2Fyogeshgiri904.github.io%2Fsro_live%2F"></a></p>
-<p align="left"> <a href="https://github.com/yogeshgiri904/" target="blank"><img src="https://img.shields.io/website?label=yogeshgiri904.com&style=for-the-badge&url=https://github.com/yogeshgiri904" /></a> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="320" />
+<p align="center"><a href="https://yogeshgiri904.github.io/shriramorg" target="blank"><img src="https://img.shields.io/website?down_message=online&style=for-the-badge&up_color=orangered&up_message=Shri%20Ram%20Org.&url=https%3A%2F%2Fyogeshgiri904.github.io%2Fshriramorg%2F"></a></p>
+<p align="center"> <a href="https://github.com/yogeshgiri904/" target="blank"><img src="https://img.shields.io/website?label=yogeshgiri904.com&style=for-the-badge&url=https://github.com/yogeshgiri904" /></a> </p>
 
-- 🔭 I’m currently working on [Namaste - Realtime Chatting App](http://srohackers.epizy.com/)
 
-- 🌱 I’m currently learning **Laravel 7**
+- 🌸 I’m currently working on [Namaste - Realtime Chatting App](http://srohackers.epizy.com/)
 
-- 👯 I’m looking to collaborate on **doing something new.**
+- 🌱 I’m currently learning **Laravel 8**
 
-- 🤝 I’m looking for help in **creating something amazing.**
+- 🤝 I’m looking for help in **creating something amazing**
 
-- 💬 Ask me about **PHP and Laravel.**
+- 💬 Ask me about **javaScript and PHP**
 
 - 📫 How to reach me **yogeshgiri904@gmail.com**
 
-- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view).
+- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view)
 
-<h3 align="left">Connect with me:</h3>
+- 🏆 **Languages and Tools:** 
 <p align="left">
-<a href="https://twitter.com/radheypandit_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="radheypandit_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogesh-g-89aa83108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yogesh-g-89aa83108" height="30" width="40" /></a>
-<a href="https://fb.com/yogesh.goswami.948011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yogesh.goswami.948011" height="30" width="40" /></a>
-<a href="https://instagram.com/radheypandit_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="radheypandit_" height="30" width="40" /></a>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-
-</p>
-<br>
-<br>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yogeshgiri904&show_icons=true&hide_border=true" />
+<a href="https://github.com/yogeshgiri904">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yogeshgiri904&show_icons=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Yogesh Giri | GitHub Stats" />
+</a>
