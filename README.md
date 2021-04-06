@@ -1,6 +1,6 @@
 <h3 align="center">Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 <h2 align="center">I'm Yogesh Giri</h2>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h4 align="center">A Passionate Full Stack Developer from India</h4>
 <p align="center"> 
 <a href="https://linkedin.com/in/yogesh-g-89aa83108">
   <img align="center" alt="Yogesh Giri | LinkedIN" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
@@ -26,32 +26,49 @@
 
 - 🌱 I’m currently learning **Laravel 8**
 
-- 🤝 I’m looking for help in **creating something amazing**
+- 🤝 I’m looking for help in **creating something amazing.**
 
 - 💬 Ask me about **javaScript and PHP**
 
 - 📫 How to reach me **yogeshgiri904@gmail.com**
 
-- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view)
+- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view).
+
+<br/>
 
  🏆 **Languages and Tools:** 
 <p align="left">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+</p>
+<br/>
+
+ ❤️ **Favorite Project:** 
+<p align="left">
+<code>
+<img height="25" src="https://github.com/yogeshgiri904/realtime-chat/blob/master/img/n.jpg">&nbsp;<a href="http://srohackers.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/Namaste_Messenger-4285F4?style=for-the-badge" alt="Namaste Messenger" width="150" >
+</code>
+ <br/>
 </p>
 <br/>
 
  📊 **Github Live Status:** 
 <p align="left">
 <a href="https://github.com/yogeshgiri904">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yogeshgiri904&show_icons=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Yogesh Giri | GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshgiri904&hide_border=true" alt="Yogesh Giri | Streak Stats" />
 </a>
+<a href="https://github.com/yogeshgiri904">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yogeshgiri904&show_icons=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Yogesh Giri | GitHub Stats" />
+</a> 
 </p>
 
