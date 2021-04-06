@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1nMDfR5xjB9w-cfG7ntsIry6E3fpwd4uO/view)
 
-- 🏆 **Languages and Tools:** 
+ 🏆 **Languages and Tools:** 
 <p align="left">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -48,6 +48,10 @@
 </p>
 <br/>
 
+ 📊 **Github Live Status:** 
+<p align="left">
 <a href="https://github.com/yogeshgiri904">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yogeshgiri904&show_icons=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Yogesh Giri | GitHub Stats" />
 </a>
+</p>
+
