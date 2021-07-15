@@ -22,7 +22,7 @@
 <p align="center"> <a href="https://github.com/yogeshgiri904/" target="blank"><img src="https://img.shields.io/website?label=yogeshgiri904.com&style=for-the-badge&url=https://github.com/yogeshgiri904" /></a> </p>
 
 
-- 🔭 I’m currently working on [Namaste - Realtime Chatting App](http://srohackers.epizy.com/)
+- 🔭 I’m currently working on [Namaste - Realtime Messenger](http://srohackers.epizy.com/)
 
 - 🌱 I’m currently learning **Laravel 8**
 
