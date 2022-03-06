@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **yogeshgiri904@gmail.com**
 
-- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1h-9jq-u2vKSzScYVeCf3Wpq_V_CgD0R-/view).
+- 📄 Know about my experiences, watchout my [**Resume**](https://drive.google.com/file/d/1Tk3ApYKiJqvUs5nWeZh97MHWlEGbWYlH/view).
 
 <br/>
 
