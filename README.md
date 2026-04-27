@@ -4,16 +4,16 @@
 
 <p align="center"> 
 <a href="https://linkedin.com/in/yogeshgiri904">
-  <img align="center" alt="LinkedIN" width="30px" src="https://skillicons.dev/icons?i=linkedin" />
+  <img align="center" alt="LinkedIN" width="30px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
 </a> 
 <a href="https://fb.com/yogesh.goswami.948011">
-  <img align="center" alt="Facebook" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
+  <img align="center" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" />
 </a>
 <a href="https://instagram.com/muscular_rambhakt">
-  <img align="center" alt="Instagram" width="30px" src="https://skillicons.dev/icons?i=instagram" />
+  <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" />
 </a> 
 <a href="https://twitter.com/yogeshgiri904">
-  <img align="center" alt="Twitter" width="30px" src="https://skillicons.dev/icons?i=twitter" />
+  <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/x.svg" />
 </a>
 </p>
 
@@ -43,14 +43,24 @@
 ### 🏆 Languages and Tools
 
 <p align="left">
+  
+<code><img height="30" src="https://skillicons.dev/icons?i=php"/> PHP</code> <code><img height="30" src="https://skillicons.dev/icons?i=js"/> JavaScript</code> <code><img height="30" src="https://skillicons.dev/icons?i=laravel"/> Laravel</code> <code><img height="30" src="https://skillicons.dev/icons?i=nodejs"/> Node.js</code> <code><img height="30" src="https://skillicons.dev/icons?i=nestjs"/> NestJS</code>
 
-<code><img height="30" src="https://skillicons.dev/icons?i=php"/> PHP</code> <code><img height="30" src="https://skillicons.dev/icons?i=js"/> JavaScript</code> <code><img height="30" src="https://skillicons.dev/icons?i=laravel"/> Laravel</code> <code><img height="30" src="https://skillicons.dev/icons?i=nodejs"/> Node.js</code> <code><img height="30" src="https://skillicons.dev/icons?i=nestjs"/> Nest.js</code> <br/><br/>
+<br/><br/>
 
-<code><img height="30" src="https://skillicons.dev/icons?i=mysql"/> MySQL</code> <code><img height="30" src="https://skillicons.dev/icons?i=redis"/> Redis</code> <code><img height="30" src="https://skillicons.dev/icons?i=aws"/> AWS</code> <code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/> Bootstrap</code> <br/><br/>
+<code><img height="30" src="https://skillicons.dev/icons?i=mysql"/> MySQL</code> <code><img height="30" src="https://skillicons.dev/icons?i=redis"/> Redis</code> <code><img height="30" src="https://skillicons.dev/icons?i=aws"/> AWS</code> <code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/> Bootstrap</code>
 
-<code><img height="30" src="https://skillicons.dev/icons?i=html"/> HTML</code> <code><img height="30" src="https://skillicons.dev/icons?i=css"/> CSS</code> <code><img height="30" src="https://skillicons.dev/icons?i=jquery"/> jQuery</code> <code><img height="30" src="https://skillicons.dev/icons?i=git"/> Git</code> <br/><br/>
+<br/><br/>
 
-<code><img height="30" src="https://skillicons.dev/icons?i=linux"/> Linux</code> <code><img height="30" src="https://skillicons.dev/icons?i=cpp"/> C++</code> <code>AJAX</code> <code>CodeIgniter</code> <code>ElasticSearch</code>
+<code><img height="30" src="https://skillicons.dev/icons?i=html"/> HTML</code> <code><img height="30" src="https://skillicons.dev/icons?i=css"/> CSS</code> <code><img height="30" src="https://skillicons.dev/icons?i=jquery"/> jQuery</code> <code><img height="30" src="https://skillicons.dev/icons?i=git"/> Git</code>
+
+<br/><br/>
+
+<code><img height="30" src="https://skillicons.dev/icons?i=linux"/> Linux</code> <code><img height="30" src="https://skillicons.dev/icons?i=cpp"/> C++</code>
+
+<!-- Fallback icons using Simple Icons -->
+
+<code><img height="30" src="https://cdn.simpleicons.org/javascript"/> AJAX</code> <code><img height="30" src="https://cdn.simpleicons.org/codeigniter/EF4223"/> CodeIgniter</code> <code><img height="30" src="https://cdn.simpleicons.org/elasticsearch/005571"/> ElasticSearch</code>
 
 </p>
 
