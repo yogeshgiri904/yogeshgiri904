@@ -1,14 +1,14 @@
 <h3 align="center">Hello World ! 👋</h3>
 <h1 align="center">I'm Yogesh Giri</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack and DevOps Engineer from India</h3>
 
 <p align="center"> 
 <a href="https://linkedin.com/in/yogeshgiri904">
   <img align="center" alt="LinkedIN" width="30px" src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
 <a href="https://fb.com/yogesh.goswami.948011">
-  <img align="center" alt="Facebook" width="30px" src="https://skillicons.dev/icons?i=facebook" />
-</a> 
+  <img align="center" alt="Facebook" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />
+</a>
 <a href="https://instagram.com/muscular_rambhakt">
   <img align="center" alt="Instagram" width="30px" src="https://skillicons.dev/icons?i=instagram" />
 </a> 
@@ -36,7 +36,7 @@
 * 🤝 I’m looking for help in **creating something amazing**
 * 💬 Ask me about **JavaScript, PHP**
 * 📫 Reach me at **[yogeshgiri904@gmail.com](mailto:yogeshgiri904@gmail.com)**
-* 📄 [Resume](https://drive.google.com/file/d/15lBmlDohXIkJY4Fv-532rGvGHXMPYUXn/view)
+* 📄 [**My Resume**](https://drive.google.com/file/d/1c-BsSC38rhu05jI-K65TLxj9U2LES7YD/view)
 
 ---
 
