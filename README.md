@@ -23,7 +23,11 @@
 
 <p align="center">
 <a href="https://yogeshgiri904.github.io/shriramorg" target="blank">
-<img src="https://img.shields.io/badge/Website-Shri%20Ram%20Org-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Website-Shri%20Ram%20Organisation-orange?style=for-the-badge" />
+</a>
+
+<a href="https://yogeshgiri904.github.io/my-shop" target="blank">
+<img src="https://img.shields.io/badge/Website-Goswami%20Khad%20Bhandar-green?style=for-the-badge" />
 </a>
 </p>
 
