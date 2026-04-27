@@ -56,11 +56,7 @@
 
 <br/><br/>
 
-<code><img height="30" src="https://skillicons.dev/icons?i=linux"/> Linux</code> <code><img height="30" src="https://skillicons.dev/icons?i=cpp"/> C++</code>
-
-<!-- Fallback icons using Simple Icons -->
-
-<code><img height="30" src="https://cdn.simpleicons.org/javascript"/> AJAX</code> <code><img height="30" src="https://cdn.simpleicons.org/codeigniter/EF4223"/> CodeIgniter</code> <code><img height="30" src="https://cdn.simpleicons.org/elasticsearch/005571"/> ElasticSearch</code>
+<code><img height="30" src="https://skillicons.dev/icons?i=linux"/> Linux</code> <code><img height="30" src="https://skillicons.dev/icons?i=cpp"/> C++</code> <code><img height="30" src="https://cdn.simpleicons.org/javascript"/> AJAX</code> <code><img height="30" src="https://cdn.simpleicons.org/codeigniter/EF4223"/> CodeIgniter</code> <code><img height="30" src="https://cdn.simpleicons.org/elasticsearch/005571"/> ElasticSearch</code>
 
 </p>
 
